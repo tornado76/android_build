@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
     CaptivePortalLogin \
     CertInstaller \
     Contacts \
+    DocumentsUI \
     DownloadProviderUi \
     ExactCalculator \
     ExternalStorageProvider \
